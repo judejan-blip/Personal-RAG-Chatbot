@@ -1,8 +1,6 @@
 # Personal-RAG-Chatbot
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Personal%20RAG%20Chatbot&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-  ⚡ FAANG-Style Generative AI Project
-<p align="center"> <img src="https://img.shields.io/badge/Python-3.10+-111827?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/Streamlit-Production_App-111827?style=for-the-badge&logo=streamlit"/> <img src="https://img.shields.io/badge/LangChain-RAG_Framework-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/ChromaDB-Vector_Database-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenRouter-LLM_API-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/DeepSeek-R1-Generative_AI-111827?style=for-the-badge"/> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.10+-111827?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/Streamlit-Production_App-111827?style=for-the-badge&logo=streamlit"/> <img src="https://img.shields.io/badge/LangChain-RAG_Framework-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/ChromaDB-Vector_Database-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenRouter-LLM_API-111827?style=for-the-badge"/>  </p>
 
   🧠 AI-Powered Knowledge Assistant using Retrieval-Augmented Generation (RAG)
 
